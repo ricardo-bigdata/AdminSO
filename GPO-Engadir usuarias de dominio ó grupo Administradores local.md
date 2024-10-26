@@ -37,7 +37,11 @@ Para engadir usuarios/as de dominio ó grupo de administradores/as local en vari
 Desta maneira, os/as usuarios/as ou grupos de dominio especificados terán privilexios de administrador/a local nos equipos configurados.
 
 Se xa tiñas iniciada sesión cunha conta á que esperas que se aplique a GPO deberás reinicia-la sesión para que cargue correctamente o token cos seus novos privilexios.
+Podes usa-la ferramenta `gpresult` para ve-las políticas efectivas sobre o/a usuario/a ou equipo:
 
+   ```shell
+gpresult /r
+   ```
 
 Posibles problemas:
 
