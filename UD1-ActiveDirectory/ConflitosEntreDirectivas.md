@@ -14,4 +14,4 @@ En xeral, **prevalece a directiva que prohibe instalacións**. En escenarios de 
 
 Se queres que os/as usuarios/as poidan instalar programas pero con restricións, podes modifica-las políticas de instalación de software para permitir instalacións asinadas ou xestionadas en lugar de bloquear completamente a capacidade de instalar. Outra opción é **dividi-las directivas en diferentes OUs se queres aplicar configuracións distintas segundo os grupos de usuarios/as**.
 
-![Directivas en OUs distintas para evitar conflitos](/conflitosGPO.png "Importante a orde da aplicación das directivas e o seu reparto en OUs")
+![Directivas en OUs distintas para evitar conflitos](/UD1-ActiveDirectory/imaxes/conflitosGPO.png "Importante a orde da aplicación das directivas e o seu reparto en OUs")
